@@ -1,0 +1,70 @@
+import 'package:flutter/material.dart';
+
+class CurrencyCard extends StatelessWidget{
+  final String name,code,amount;
+  final IconData icon;
+
+  const CurrencyCard({super.key, required this.name, required this.code, required this.amount, required this.icon});
+
+  
+  @override
+    Widget build(BuildContext context) {
+      return Container(
+                    clipBehavior:Clip.hardEdge, //어떤 아이템이 container를 벗어났을때 어떻게 할지 알려줌 여기서는 clip.hardEdge를 씀으롴써 벗어난 부분이 사라짐
+                    decoration: BoxDecoration(
+                      color: Color(0XFF1F2123),
+                      borderRadius: BorderRadius.circular(20),
+                    ),
+                    child: Padding(
+                      padding: const EdgeInsets.all(30),
+                      child: Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                        children: [
+                          Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(name,style:TextStyle(
+                                color:Colors.white,
+                                fontSize: 32,
+                                fontWeight: FontWeight.w600,
+                                ),
+                              ),
+                              SizedBox(height: 10,),
+
+                              Row(
+                                
+                                children: [
+                                  Text(amount,style:TextStyle(
+                                    color:Colors.white,
+                                    fontSize: 20,
+
+                                    ),
+                                  ),
+                                  SizedBox(width:5),
+                                  Text(code,style:TextStyle(
+                                    color:Colors.white.withOpacity(0.8),
+                                    fontSize: 18,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ],
+                          ),
+                          Transform.scale( //container의 크기는 안건들고 아이콘의 크기만 변경시킴
+                            scale: 2.2,
+
+                            child: Transform.translate(   //아이콘의 위치를 x축, y축으로 원하는 만큼 이동시켜 수정 가능
+                              offset:Offset(-5,12),
+                              child: Icon(icon,
+                              color: Colors.white,
+                              size: 88,
+                              ),
+                            ),
+ 
+                          ),
+                        ],
+                      ),
+                    )
+                  );
+    }
+}
