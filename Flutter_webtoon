@@ -12,153 +12,169 @@ class App extends StatelessWidget{
       return MaterialApp(
         home: Scaffold(
           backgroundColor: Color(0Xff181818),
-          body: Padding(
-            padding: EdgeInsets.symmetric(horizontal: 20),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                SizedBox(
-                  height: 80,
+          body: SingleChildScrollView( //이제 스크롤 가능
+            child: Padding(
+              padding: EdgeInsets.symmetric(horizontal: 20),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  SizedBox(
+                    height: 20,
 
-                ),
-                Row(
-                  mainAxisAlignment: MainAxisAlignment.end,
-                  children: [
-                    Column(
+                  ),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.end,
+                    children: [
+                      Column(
+                        crossAxisAlignment: CrossAxisAlignment.end,
+                        children: [
+                          Text('Hey Selena',
+                            style: TextStyle(
+                              color: Colors.white,
+                              fontSize: 28.0,
+                              fontWeight: FontWeight.w800,
+                            ),
+                          ),
+                          Text('Welcome back',
+                            style: TextStyle(
+                              color: Colors.white.withOpacity(0.8),
+                              fontSize: 18.0,
+                            ),
+                          ),
+                        ],
+                      )
+                    ],
+                  ),
+                  SizedBox(height:50,),
+                  Text('Total Balance',
+                    style: TextStyle(
+                      fontSize: 18,
+                      color: Colors.white.withOpacity(0.8),
+                      ),
+                    ),
+
+                    SizedBox(
+                      height: 10,
+                    ),
+
+                    Text('\$5 194 482',
+                    style: TextStyle(
+                      fontSize: 48,
+                      color: Colors.white,
+                      fontWeight: FontWeight.w600
+                      ),
+                    ),
+                    SizedBox(
+                      height: 20,
+                    ),
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: [
+                        MyButton(),
+                        Button(text:'Request', bgcolor: Color(0XFF1F2123  ),txtcolor:Colors.white),
+                      ],
+                    ),
+                    SizedBox(height: 50,),
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       crossAxisAlignment: CrossAxisAlignment.end,
                       children: [
-                        Text('Hey Selena',
+                        const Text('Wallets',
                           style: TextStyle(
+                            fontSize: 38,
+                            fontWeight: FontWeight.w600,
                             color: Colors.white,
-                            fontSize: 28.0,
-                            fontWeight: FontWeight.w800,
+
                           ),
                         ),
-                        Text('Welcome back',
+                        Text('View All',
                           style: TextStyle(
-                            color: Colors.white.withOpacity(0.8),
-                            fontSize: 18.0,
+                            fontSize: 14,
+                            color: Colors.white.withOpacity(0.6),
                           ),
                         ),
                       ],
-                    )
-                  ],
-                ),
-                SizedBox(height:50,),
-                Text('Total Balance',
-                  style: TextStyle(
-                    fontSize: 18,
-                    color: Colors.white.withOpacity(0.8),
                     ),
-                  ),
+                    SizedBox(height: 20,),
 
-                  SizedBox(
-                    height: 10,
-                  ),
-
-                  Text('\$5 194 482',
-                  style: TextStyle(
-                    fontSize: 48,
-                    color: Colors.white,
-                    fontWeight: FontWeight.w600
-                    ),
-                  ),
-                  SizedBox(
-                    height: 20,
-                  ),
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [
-                      MyButton(),
-                      Button(text:'Request', bgcolor: Color(0XFF1F2123  ),txtcolor:Colors.white),
-                    ],
-                  ),
-                  SizedBox(height: 100,),
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    crossAxisAlignment: CrossAxisAlignment.end,
-                    children: [
-                      const Text('Wallets',
-                        style: TextStyle(
-                          fontSize: 38,
-                          fontWeight: FontWeight.w600,
-                          color: Colors.white,
-
-                        ),
+                    Container(
+                      clipBehavior:Clip.hardEdge, //어떤 아이템이 container를 벗어났을때 어떻게 할지 알려줌 여기서는 clip.hardEdge를 씀으롴써 벗어난 부분이 사라짐
+                      decoration: BoxDecoration(
+                        color: Color(0XFF1F2123),
+                        borderRadius: BorderRadius.circular(20),
                       ),
-                      Text('View All',
-                        style: TextStyle(
-                          fontSize: 14,
-                          color: Colors.white.withOpacity(0.6),
-                        ),
-                      ),
-                    ],
-                  ),
-                  SizedBox(height: 20,),
+                      child: Padding(
+                        padding: const EdgeInsets.all(30),
+                        child: Row(
+                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                          children: [
+                            Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text('Euro',style:TextStyle(
+                                  color:Colors.white,
+                                  fontSize: 32,
+                                  fontWeight: FontWeight.w600,
+                                  ),
+                                ),
+                                SizedBox(height: 10,),
 
-                  Container(
-                    clipBehavior:Clip.hardEdge, //어떤 아이템이 container를 벗어났을때 어떻게 할지 알려줌 여기서는 clip.hardEdge를 씀으롴써 벗어난 부분이 사라짐
-                    decoration: BoxDecoration(
-                      color: Color(0XFF1F2123),
-                      borderRadius: BorderRadius.circular(20),
-                    ),
-                    child: Padding(
-                      padding: const EdgeInsets.all(30),
-                      child: Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                        children: [
-                          Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: [
-                              Text('Euro',style:TextStyle(
-                                color:Colors.white,
-                                fontSize: 32,
-                                fontWeight: FontWeight.w600,
+                                Row(
+                                  
+                                  children: [
+                                    Text('6 428',style:TextStyle(
+                                      color:Colors.white,
+                                      fontSize: 20,
+
+                                      ),
+                                    ),
+                                    SizedBox(width:5),
+                                    Text('EUR',style:TextStyle(
+                                      color:Colors.white.withOpacity(0.8),
+                                      fontSize: 18,
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              ],
+                            ),
+                            Transform.scale( //container의 크기는 안건들고 아이콘의 크기만 변경시킴
+                              scale: 2.2,
+
+                              child: Transform.translate(   //아이콘의 위치를 x축, y축으로 원하는 만큼 이동시켜 수정 가능
+                                offset:Offset(-5,12),
+                                child: const Icon(Icons.euro_rounded,
+                                color: Colors.white,
+                                size: 88,
                                 ),
                               ),
-                              SizedBox(height: 10,),
-
-                              Row(
-                                
-                                children: [
-                                  Text('6 428',style:TextStyle(
-                                    color:Colors.white,
-                                    fontSize: 20,
-
-                                    ),
-                                  ),
-                                  SizedBox(width:5),
-                                  Text('EUR',style:TextStyle(
-                                    color:Colors.white.withOpacity(0.8),
-                                    fontSize: 18,
-                                    ),
-                                  ),
-                                ],
-                              ),
-                            ],
-                          ),
-                          Transform.scale( //container의 크기는 안건들고 아이콘의 크기만 변경시킴
-                            scale: 2.2,
-
-                            child: Transform.translate(   //아이콘의 위치를 x축, y축으로 원하는 만큼 이동시켜 수정 가능
-                              offset:Offset(-5,12),
-                              child: const Icon(Icons.euro_rounded,
-                              color: Colors.white,
-                              size: 88,
-                              ),
-                            ),
  
-                          ),
-                        ],
-                      ),
-                    )
-                  ),
+                            ),
+                          ],
+                        ),
+                      )
+                    ),
 
-                  CurrencyCard(name: 'Dollar', amount: '55 622', code: 'USD', icon: Icons.paid,)
-                  //8:04부터
-                ],
+                    CurrencyCard(name: 'Dollar',
+                    amount: '55 622',
+                    code: 'USD',
+                    icon: Icons.attach_money_outlined,
+                    isInverted: true,
+                    cardOrder: 2,
+                    ),
+
+                    CurrencyCard(name: 'Bitcoin',
+                    amount: '134 611',
+                    code: 'BTC',
+                    icon: Icons.currency_bitcoin,
+                    isInverted: false,
+                    cardOrder: 3,
+                    )
+                    
+                  ],
+                ),
               ),
-            ),
+          ),
           )
   );
   }
