@@ -35,5 +35,10 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 전투력 </h2> <div align= "center"> 
     </div> 
-    </div>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gitue11)](https://solved.ac/gitue11)​
+        
+<div align="center">
+    <a href="https://solved.ac/gitue11">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gitue11" alt="Solved.ac 프로필">
+    </a>
+</div>
+​
