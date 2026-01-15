@@ -37,7 +37,7 @@
     </div> 
         
 <div align="center">
-    <a href="https://solved.ac/gitue11">
+    <a href="https://solved.ac/profile/gitue11">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gitue11" alt="Solved.ac 프로필">
     </a>
 </div>
