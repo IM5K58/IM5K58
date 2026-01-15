@@ -2,6 +2,7 @@
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1ceef2,100:0ce9a6&height=180&text=대전의%20푸른%20맹수%20록오&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img width="302" height="167" alt="image" src="https://github.com/user-attachments/assets/21acfb7b-1152-4bba-9bb1-2dd56efffd27" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 충남 떡볶이 국물 조림 장인 오인겸입니다. </h2>  
