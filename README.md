@@ -33,8 +33,8 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 오류 난거 </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=IM5K58&bg_color=180,5ef397,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IM5K58&layout=compact&bg_color=180,5ef397,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 전투력 </h2> <div align= "center"> 
+    </div> 
+        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gitue11)](https://solved.ac/gitue11/)
     </div>
     
