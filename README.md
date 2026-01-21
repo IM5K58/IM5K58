@@ -24,7 +24,7 @@
           </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 맛있는거 </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 연락처 </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@kyums_writing/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@kyums_writing/posts"> </a>
          <a href=https://blog.naver.com/kyumino_> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/kyumino_"> </a>
          <a href=https://futuristic-citrus-130.notion.site/2eaf9dfb809980169b2bfb9d0d6f5840> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://futuristic-citrus-130.notion.site/2eaf9dfb809980169b2bfb9d0d6f5840"> </a>
