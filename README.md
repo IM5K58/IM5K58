@@ -9,8 +9,9 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 오인겸입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 50살때 떡볶이집을 운영할 계획을 가지고 있습니다. 최근 관심 분야: DevOps/AI </li>협업 문의: 하단 참고
-살아있는 우리들의 시집 : https://our-living-poetry.com/
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li>>저는 50살때 떡볶이집을 운영할 계획을 가지고 있습니다. 최근 관심 분야: DevOps/AI </li>
+        <li>협업 문의: gitue11@gmail.com</li>
+</li>살아있는 우리들의 시집 : https://our-living-poetry.com/</li>
  </div> 
     </div>
     <div align= "center">
