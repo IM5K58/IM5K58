@@ -7,10 +7,6 @@
     <img width="302" height="167" alt="image" src="https://github.com/user-attachments/assets/21acfb7b-1152-4bba-9bb1-2dd56efffd27" />
 </div>
 
-<div align= "center">
-    <img width="669" height="313" alt="image" src="https://github.com/user-attachments/assets/3467d897-6eab-45f8-ac24-a98547cf97a8" />
-</div>
-
 <div align="center">
     <div style="background-color: #f6f8fa; border-radius: 15px; padding: 25px; max-width: 550px; margin: 20px auto; border: 1px solid #d0d7de; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
         <h2 style="border-bottom: none; color: #282d33; margin-top: 0; margin-bottom: 15px;"> 👋 반가워요, 오인겸입니다! </h2>
