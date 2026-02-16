@@ -20,6 +20,9 @@
                 <b>야수의 심장 보유자입니다. 쉬운길은 지루해서 못가겠습니다. </b>
             </p>
             <p style="margin: 5px 0;">
+                <b>감당할 수 없는 일을 벌이고 감당하라. </b>
+            </p>
+            <p style="margin: 5px 0;">
                 현재 <b>DevOps</b>와 <b>AI</b> => 이런거 관심있습니다. <br>
             </p>
             <p style="margin-top: 15px;">
