@@ -19,7 +19,6 @@
             <p style="margin: 5px 0;">
                 <b>야수의 심장 보유자입니다. 쉬운길은 지루해서 못가겠습니다. </b>
             </p>
-            
             <p style="margin: 5px 0;">
                 현재 <b>DevOps</b>와 <b>AI</b> => 이런거 관심있습니다. <br>
             </p>
