@@ -14,44 +14,17 @@
         <h2 style="border-bottom: none; color: #282d33; margin-top: 0; margin-bottom: 15px;"> 오인겸입니다 </h2>
         <div style="font-size: 15px; line-height: 1.7; color: #24292f;">
             <p style="margin: 5px 0;">
-                <b>저는 50살에 떡볶이집을 운영할 계획을 가지고 있습니다</b>
-            </p>
-            <p style="margin: 5px 0;">
-                <b>야수의 심장 보유자입니다. 쉬운길은 지루해서 못가겠습니다. </b>
-            </p>
-            <p style="margin: 5px 0;">
-                <b>감당할 수 없는 일을 벌이고 감당하라. </b>
-            </p>
-            <p style="margin: 5px 0;">
-                현재 <b>DevOps</b>와 <b>AI</b> => 이런거 관심있습니다. <br>
+                <b>저는 50살에 떡볶이집을 운영할 계획을 가지고 있습니다.</b>
             </p>
             <p style="margin-top: 15px;">
                 📮 협업 문의: <a href="mailto:gitue11@gmail.com" style="color: #0969da; text-decoration: none; font-weight: bold;">gitue11@gmail.com</a>
             </p>
             <p>
-                ✨ 운영 서비스: <a href="https://our-living-poetry.com" target="_blank" style="color: #0969da; font-weight: bold; text-decoration: none;">
-                   [ 살아있는 우리들의 시집 ]
-                </a>
+                ✨ 운영 서비스: <br>
+                🟢 <a href="https://our-living-poetry.com" target="_blank" style="color: #0969da; font-weight: bold; text-decoration: none;">[ 살아있는 우리들의 시집 ]</a> <br> 
+                🟢 <a href="https://data-structure-visualizer-d.vercel.app/" target="_blank" style="color: #0969da; font-weight: bold; text-decoration: none;">[ 자료구조 시각화 웹 애플리케이션 ]</a>
             </p>
         </div>
-    </div>
-</div>
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 할 줄 아는거 </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> 
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-        <br/>
-        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-        <br/>
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
     </div>
 </div>
 
