@@ -21,7 +21,7 @@
             </p>
             <p>
                 ✨ 운영 서비스: <br>
-                🔴 <a href="https://vierasion.com" target="_blank" style="color: #0969da; font-weight: bold; text-decoration: none;">[ Vierasion 공식 사이트 ]</a> - 제작중
+                🟢 <a href="https://vierasion.com" target="_blank" style="color: #0969da; font-weight: bold; text-decoration: none;">[ Vierasion 공식 사이트 ]</a>
                 <br>
                 🟢 <a href="https://our-living-poetry.com" target="_blank" style="color: #0969da; font-weight: bold; text-decoration: none;">[ 살아있는 우리들의 시집 ]</a> - 업뎃중 <br> 
                 🟢 <a href="https://data-structure-visualizer-project.vercel.app/" target="_blank" style="color: #0969da; font-weight: bold; text-decoration: none;">[ 자료구조 시각화 웹 애플리케이션 ]</a>
