@@ -20,6 +20,7 @@
                 📮 협업 문의: <a href="mailto:gitue11@gmail.com" style="color: #0969da; text-decoration: none; font-weight: bold;">gitue11@gmail.com</a>
             </p>
             <p>
+                🟢 <a href="https://1week-1project-dashboard.vercel.app/" target="_blank" style="color: #0969da; font-weight: bold; text-decoration: none;">[ 1주 1서비스 챌린지 대시보드 ]</a>
                 ✨ 운영 서비스: <br>
                 🟢 <a href="https://vierasion.com" target="_blank" style="color: #0969da; font-weight: bold; text-decoration: none;">[ Vierasion 공식 사이트 ]</a>
                 <br>
