@@ -19,36 +19,4 @@
             <p style="margin-top: 15px;">
                 📮 협업 문의: <a href="mailto:gitue11@gmail.com" style="color: #0969da; text-decoration: none; font-weight: bold;">gitue11@gmail.com</a>
             </p>
-            <p>
-                🟢 <a href="https://1week-1project-dashboard.vercel.app/" target="_blank" style="color: #0969da; font-weight: bold; text-decoration: none;">[ 1주 1서비스 챌린지 대시보드 ]</a>
-                <br>
-                ✨ 운영 서비스: <br>
-                🟢 <a href="https://vierasion.com" target="_blank" style="color: #0969da; font-weight: bold; text-decoration: none;">[ Vierasion 공식 사이트 ]</a>
-                <br>
-                🔴 <a href="https://our-living-poetry.com" target="_blank" style="color: #0969da; font-weight: bold; text-decoration: none;">[ 살아있는 우리들의 시집 ]</a> - 업뎃중 <br> 
-                🟢 <a href="https://data-structure-visualizer-project.vercel.app/" target="_blank" style="color: #0969da; font-weight: bold; text-decoration: none;">[ 자료구조 시각화 웹 애플리케이션 ]</a> - 업뎃중, 공짜서버 써서 컴파일 엄청 느립니다/ 컴파일 안되는 경우 있으면 제보 부탁드립니다. <br>
-                🔴 제작중: 야수의 심장
-            </p>
-        </div>
-    </div>
-</div>
-
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 볼거리 </h2> <br> 
-    <div align= "center"> 
-        <a href=https://futuristic-citrus-130.notion.site/2eaf9dfb809980169b2bfb9d0d6f5840> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://futuristic-citrus-130.notion.site/2eaf9dfb809980169b2bfb9d0d6f5840"> </a>
-        <a href=https://velog.io/@kyums_writing/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@kyums_writing/posts"> </a>
-        <a href=https://blog.naver.com/kyumino_> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/kyumino_"> </a>
-        <a href=mailto:gitue11@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gitue11@gmail.com"> </a>
-    </div> <br> 
-</div>
-
-<div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 전투력 </h2> 
-    <br>
-    <div align="center">
-        <a href="https://solved.ac/profile/gitue11">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gitue11" alt="Solved.ac 프로필">
-        </a>
-    </div>
-</div>
+            
