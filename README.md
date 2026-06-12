@@ -20,5 +20,3 @@
                 📮 협업 문의: <a href="mailto:gitue11@gmail.com" style="color: #0969da; text-decoration: none; font-weight: bold;">gitue11@gmail.com</a>
             </p>
             
-<hr>
-등록 특허 : <a href="https://www.kipris.or.kr/khome/detail/newWindow.do">안약</a>
