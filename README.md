@@ -6,12 +6,15 @@
     <img src="https://github.com/IM5K58/IM5K58/blob/main/persevere-sand.svg" alt="Persevere" width="900" />
 </div>
 
+
 <div align="center">
 
 ### 오인겸입니다
 <a href="https://vierasion.com/">
-    <img width="1024" height="412" alt="image" src="https://github.com/user-attachments/assets/f55524cc-9695-4d46-a21f-f217d234cacb" />
+    <img width="1200" height="370" alt="image" src="https://github.com/user-attachments/assets/c5c10a97-e135-4b6a-b50e-50800248580c" />
 </a>
+
+
 
 
 📮 협업 문의 · [gitue11@gmail.com](mailto:gitue11@gmail.com)
