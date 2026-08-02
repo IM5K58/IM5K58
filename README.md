@@ -55,7 +55,3 @@
 
 ---
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=IM5K58&show_icons=true&hide_border=true&theme=graywhite&icon_color=D4AF37&title_color=D4AF37" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IM5K58&layout=compact&hide_border=true&theme=graywhite&title_color=D4AF37" height="150" />
-</div>
