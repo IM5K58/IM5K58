@@ -2,9 +2,8 @@
 </div>
 
 
-
 <div align="center">
-    
+    <img src="https://github.com/IM5K58/IM5K58/blob/main/persevere-sand.svg" alt="Persevere" width="900" />
 </div>
 
 <div align="center">
