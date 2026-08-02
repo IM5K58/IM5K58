@@ -4,13 +4,12 @@
 
 
 <div align="center">
-    <img width="302" height="167" alt="image" src="https://github.com/user-attachments/assets/21acfb7b-1152-4bba-9bb1-2dd56efffd27" />
-    <img width="126" height="126" alt="image" src="https://github.com/user-attachments/assets/92cce46e-f318-42f1-9028-6948a6751b9a" />
+    
 </div>
 
 <div align="center">
 
-### 오인겸입니다![Uploading persevere-sand.svg…]()
+### 오인겸입니다
 
 
 📮 협업 문의 · [gitue11@gmail.com](mailto:gitue11@gmail.com)
