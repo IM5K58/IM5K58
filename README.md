@@ -13,7 +13,6 @@
 <a href="https://vierasion.com/">
     <img width="1200" height="370" alt="image" src="https://github.com/user-attachments/assets/c5c10a97-e135-4b6a-b50e-50800248580c" />
 </a>
-<img width="2691" height="830" alt="image" src="https://github.com/user-attachments/assets/c3f8faf2-4f36-4242-8ca6-a09b4f75559f" />
 
 
 
