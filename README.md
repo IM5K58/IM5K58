@@ -10,6 +10,7 @@
 <div align="center">
 
 ### 오인겸입니다
+로보틱스 관심있습니다
 
 <div align="center">
     ▽Click▽
