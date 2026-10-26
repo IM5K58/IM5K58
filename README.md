@@ -1,4 +1,4 @@
-<img width="907" height="72" alt="image" src="https://github.com/user-attachments/assets/6070713b-21f1-423e-b417-991b73e9a4a8" />
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/6070713b-21f1-423e-b417-991b73e9a4a8" />
 </div>
 
 
@@ -16,7 +16,7 @@
     ▽Click▽
 </div>
 <a href="https://vierasion.com/">
-    <img width="1983" height="793" alt="vierasion-3d" src="https://github.com/user-attachments/assets/1929f707-2d7c-45d9-a251-2dc56b8b32bf" />
+    <img width="1983" alt="vierasion-3d" src="https://github.com/user-attachments/assets/1929f707-2d7c-45d9-a251-2dc56b8b32bf" />
 </a>
 
 
