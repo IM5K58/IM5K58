@@ -10,13 +10,13 @@
 <div align="center">
 
 ### 오인겸입니다
-로보틱스 관심있습니다
+
 
 <div align="center">
     ▽Click▽
 </div>
 <a href="https://vierasion.com/">
-    <img width="1200" height="370" alt="image" src="https://github.com/user-attachments/assets/c5c10a97-e135-4b6a-b50e-50800248580c" />
+    <img width="1200" height="370" alt="vierasion-3d" src="https://github.com/user-attachments/assets/27649f7b-4d65-44da-a482-5a6a8f10c956" />
 </a>
 
 
