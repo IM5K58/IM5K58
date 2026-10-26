@@ -16,7 +16,7 @@
     ▽Click▽
 </div>
 <a href="https://vierasion.com/">
-    <img width="1200" height="370" alt="vierasion-3d" src="https://github.com/user-attachments/assets/27649f7b-4d65-44da-a482-5a6a8f10c956" />
+    <img width="1983" height="793" alt="vierasion-3d" src="https://github.com/user-attachments/assets/1929f707-2d7c-45d9-a251-2dc56b8b32bf" />
 </a>
 
 
